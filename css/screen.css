@@ -954,3 +954,18 @@ background-color:transparent;
   left: 65%;
   transform: translate(-50%, -50%);
 }
+section.main aside .content.article1  {
+	background-image:url(../images/freegames1.png);
+}
+
+section.main aside .content.article2 {
+	background-image:url(../images/polysitch.jpg);
+}
+section.main aside .content.article3 {
+	background-image:url(../images/zero.jpg);
+	
+}
+section.main aside .content.article4 {
+	background-image:url(../images/xboxx.jpg);
+	
+}
